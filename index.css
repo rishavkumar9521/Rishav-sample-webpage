@@ -1,0 +1,71 @@
+body{
+  overflow-x: hidden;
+}
+h1{
+  color: red;
+font-family: 'Baloo Bhaijaan 2', cursiv;
+font-size: 1.5rem;
+line-height: 5rem;
+}
+h2{
+  font-weight: lighter;
+}
+h3{
+  float: right;
+  margin-right: 550px;
+}
+
+.rishav:hover{
+  color: blue;
+}
+#rish{
+  font-style: italic;
+}
+
+.table{
+  margin-left: 150px;
+}
+hr{
+  width: 150px;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+}
+.pro{
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+.fun{
+ display: inline;
+}
+
+.img{
+  border-radius: 100%;
+  width: 180px;
+  height: 160px;
+  clear: left;
+}
+
+.boy{
+  position: fixed;
+  left: 250px;
+}
+
+.section{
+  width: 100%;
+  height: 150px;
+  background-color: #C996CC;
+  padding:50px;
+  margin-top: 50px;
+
+}
+.one{
+  background-color: #787A91;
+  width: 100%;
+}
+
+.button{
+  margin-top: 10px;
+
+}
